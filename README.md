@@ -11,4 +11,4 @@ Firstly the landmarks of the inner lips are found to get the region where the te
 
 Firstly the landmarks of the inner lips are found to get the region where the teeth should be found. Then this mask is used along with Stable Diffusion with inpainting to generate teeth inside the mouth region on top of the original image. This functionality is shown below:
 
-![missing_teeth](https://github.com/TechT3o/whiten_and_generate_teeth/assets/87833804/d74f5155-74dd-4f6f-b6bb-a8556f06386b)
+![missing_teeth_gen](https://github.com/TechT3o/whiten_and_generate_teeth/assets/87833804/95ff6c27-100b-4fba-b2a8-03881185b67c)
